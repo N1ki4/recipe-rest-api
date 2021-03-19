@@ -1,5 +1,5 @@
 django==2.2.11
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 psycopg2==2.8.4
 django-rest-auth==0.9.5
 django-allauth==0.41.0
